@@ -41,6 +41,8 @@ function bandsInTown(parameter) {
         if (!error && response.statusCode === 200) {
             const concert = JSON.parse(body);
             for (i = 0; i < concert.length; i++) {
+                fs.appendFileSync("log.txt", "Concert Info - " + [i+1] + "\n");
+
                 // Name of the venue
                 console.log("Name of the Venue: " + concert[i].venue.name);
                 fs.appendFileSync("log.txt", "Name of the Venue: " + concert[i].venue.name + "\n");
