@@ -208,42 +208,17 @@ function ombdMovie(parameter) {
 };
 
 
-// // do-what-it-says
-// // node liri.js do-what-it-says
-// function getRandom() {
-//     fs.readFile('random.txt', "utf8", function (error, data) {
-
-//         if (error) {
-//             return logIt(error);
-//         }
-
-//         var dataArr = data.split(",");
-
-//         if (dataArr[0] === "spotify-this-song") {
-//             var songcheck = dataArr[1].trim().slice(1, -1);
-//             spotSong(songcheck);
-//         }
-//         else if (dataArr[0] === "concert-this") {
-//             if (dataArr[1].charAt(1) === "'") {
-//                 var dLength = dataArr[1].length - 1;
-//                 var data = dataArr[1].substring(2, dLength);
-//                 console.log(data);
-//                 bandsInTown(data);
-//             }
-//             else {
-//                 var bandName = dataArr[1].trim();
-//                 console.log(bandName);
-//                 bandsInTown(bandName);
-//             }
-//         }
-//         else if (dataArr[0] === "movie-this") {
-//             var movie_name = dataArr[1].trim().slice(1, -1);
-//             ombdMovie(movie_name);
-//         }
-//     });
-// };
-
-
-
+// Function: do-what-it-says
+// node liri.js do-what-it-says
+function randomLiri(){
+	fs.readFile('random.txt', 'utf8', function(err, data){
+        
+        if (err){ 
+			return console.log(err);
+		}
+        var dataArr = data.split(',');
+        AskLiri(dataArr[0], dataArr[1]);
+	});
+}
 
 AskLiri();
