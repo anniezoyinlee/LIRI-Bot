@@ -1,392 +1,101 @@
-Concert Info -1
-Name of the Venue: Mt Smart Stadium
-Venue Location: Auckland, New Zealand
-Date of the Event: 11/08/2019 07:00PM
-Concert Info -2
-Name of the Venue: Marvel Stadium
-Venue Location: Docklands, Australia
-Date of the Event: 11/15/2019 07:00PM
-Concert Info -3
-Name of the Venue: Optus Stadium
-Venue Location: Burswood, Australia
-Date of the Event: 11/27/2019 07:00PM
 Song Info - 1
-artist(s): Ty Dolla $ign
-song name: Purple Emoji (feat. J. Cole)
-preview song: https://p.scdn.co/mp3-preview/a3542482492bb8af7ff2531770595c54f4ebcd5c?cid=3cc91f9535f14916b7d83119a756ea19
-album: Purple Emoji (feat. J. Cole)
-Song Info - 2
-artist(s): Prince
-song name: Purple Rain
-preview song: https://p.scdn.co/mp3-preview/2fe008411edea4f21355301daa8993663eaf46f8?cid=3cc91f9535f14916b7d83119a756ea19
-album: Purple Rain
-Song Info - 3
-artist(s): Jimi Hendrix
-song name: Purple Haze
-preview song: https://p.scdn.co/mp3-preview/03bc9eb9c20f832c8341a3db4173d7036d93156e?cid=3cc91f9535f14916b7d83119a756ea19
-album: Are You Experienced
-Song Info - 4
-artist(s): Stone Temple Pilots
-song name: Interstate Love Song
-preview song: https://p.scdn.co/mp3-preview/4618c4762f00e5a074862d8d56104f6ce709f168?cid=3cc91f9535f14916b7d83119a756ea19
-album: Purple
-Song Info - 5
-artist(s): Skrillex
-song name: Purple Lamborghini (with Rick Ross)
-preview song: https://p.scdn.co/mp3-preview/2e18e92cdcff02cdd4bdbc7bcd23fcb56a31e414?cid=3cc91f9535f14916b7d83119a756ea19
-album: Purple Lamborghini (with Rick Ross)
-Song Info - 6
-artist(s): Prince
-song name: When Doves Cry
-preview song: https://p.scdn.co/mp3-preview/5fc1bc59898ea8d0d23cf88810828d014020ef5d?cid=3cc91f9535f14916b7d83119a756ea19
-album: Purple Rain
-Song Info - 7
-artist(s): D12
-song name: Purple Pills
+artist(s): Fall Out Boy
+song name: Sugar, We're Goin Down
 preview song: null
-album: Devils Night
-Song Info - 8
-artist(s): 88GLAM
-song name: Purple Baguettes
+album: From Under The Cork Tree
+-----------------------------------------------------Song Info - 2
+artist(s): Maroon 5
+song name: Sugar
 preview song: null
-album: 88GLAM2
-Song Info - 9
-artist(s): Deep Purple
-song name: Smoke on the Water
-preview song: https://p.scdn.co/mp3-preview/ac7473e5145e52682fa58c2ff1dc33c5b81b7c18?cid=3cc91f9535f14916b7d83119a756ea19
-album: Machine Head
-Song Info - 10
-artist(s): Lukas Graham
-song name: Love Someone
-preview song: https://p.scdn.co/mp3-preview/b95607fe91dde7c1755cf4acb06f3ec4d300b347?cid=3cc91f9535f14916b7d83119a756ea19
-album: 3 (The Purple Album)
-Song Info - 11
-artist(s): Stone Temple Pilots
-song name: Vasoline
-preview song: https://p.scdn.co/mp3-preview/8c273e4dd0b7895dcd8a7c060a58161e96c9607b?cid=3cc91f9535f14916b7d83119a756ea19
-album: Purple
-Song Info - 12
-artist(s): Prince
-song name: Let's Go Crazy
-preview song: https://p.scdn.co/mp3-preview/85dd430202f409d4e960e9169cfdddd38fe46ade?cid=3cc91f9535f14916b7d83119a756ea19
-album: Purple Rain
-Song Info - 13
-artist(s): Figaro Castello
-song name: Purple Dreams
-preview song: https://p.scdn.co/mp3-preview/bf2be07c14a2c00d6f70f84e980a9631de518fe8?cid=3cc91f9535f14916b7d83119a756ea19
-album: Purple Dreams
-Song Info - 14
-artist(s): Once Proven
-song name: Purple Distant
-preview song: https://p.scdn.co/mp3-preview/581ee6e527216f4c3e8641a065c8647acf67abf1?cid=3cc91f9535f14916b7d83119a756ea19
-album: Closing In On Reality
-Song Info - 15
-artist(s): A$AP Rocky
-song name: Purple Swag
-preview song: https://p.scdn.co/mp3-preview/7ade3508291a5844c23741e00e0d87df297e56d9?cid=3cc91f9535f14916b7d83119a756ea19
-album: Purple Swag
-Song Info - 16
-artist(s): Deep Purple
-song name: Highway Star
-preview song: https://p.scdn.co/mp3-preview/b657344c73b65816e6046fd93ce7c8eccc09f005?cid=3cc91f9535f14916b7d83119a756ea19
-album: Machine Head
-Song Info - 17
-artist(s): Deep Sleep Music Collective
-song name: Purple Star
-preview song: https://p.scdn.co/mp3-preview/b4264edd640f9b68e5325b6863dc065bf9c17467?cid=3cc91f9535f14916b7d83119a756ea19
-album: Sleeping Music: Calm Music to Help You Sleep, Natural Sleep Aid and Relaxing Piano for Sleep Music
-Song Info - 18
-artist(s): SahBabii
-song name: Purple Ape (feat. 4orever)
-preview song: https://p.scdn.co/mp3-preview/d14707933f736632deaa26535fb3dab74da46b8c?cid=3cc91f9535f14916b7d83119a756ea19
-album: S.A.N.D.A.S.
-Song Info - 19
-artist(s): Prince
-song name: I Would Die 4 U
-preview song: https://p.scdn.co/mp3-preview/395d416c1d2bc452c4326513cc2ca46f572cb836?cid=3cc91f9535f14916b7d83119a756ea19
-album: Purple Rain
-Song Info - 20
-artist(s): Portugal. The Man
-song name: Purple Yellow Red and Blue
-preview song: https://p.scdn.co/mp3-preview/1bef5ae1d8d735dd4caf6d00c272ab1f80d2e85d?cid=3cc91f9535f14916b7d83119a756ea19
-album: Evil Friends
-Song Info - 1
-artist(s): Lil Wayne
-song name: Lollipop
+album: V
+-----------------------------------------------------Song Info - 3
+artist(s): Post Malone
+song name: Sugar Wraith
 preview song: null
-album: Tha Carter III
-Song Info - 2
-artist(s): Framing Hanley
-song name: Lollipop
-preview song: https://p.scdn.co/mp3-preview/8fb3f5e3c1ebfc0db8f8be4bcd6ab3166d8ab12e?cid=3cc91f9535f14916b7d83119a756ea19
-album: The Moment (Digital Deluxe)
-Song Info - 3
-artist(s): The Chordettes
-song name: Lollipop
-preview song: https://p.scdn.co/mp3-preview/cd41571dcb644ff3af619e8f5c160691e912d8dd?cid=3cc91f9535f14916b7d83119a756ea19
-album: The Chordettes' Best
-Song Info - 4
-artist(s): MIKA
-song name: Lollipop
+album: beerbongs & bentleys
+-----------------------------------------------------Song Info - 4
+artist(s): Maroon 5
+song name: Sugar - Acoustic Cover
+preview song: https://p.scdn.co/mp3-preview/f60f2c9699c25bd136ef317ed19dbd2b722ba4bd?cid=3cc91f9535f14916b7d83119a756ea19
+album: Music for the Moment: Best Classical Music to Destroy Your Anxiety
+-----------------------------------------------------Song Info - 5
+artist(s): Baby Bash
+song name: Suga Suga
 preview song: null
-album: Life in Cartoon Motion
-Song Info - 5
-artist(s): Lil Wayne
-song name: Lollipop
+album: Tha Smokin' Nephew
+-----------------------------------------------------Song Info - 6
+artist(s): Fall Out Boy
+song name: Sugar, We're Goin Down
 preview song: null
-album: Tha Carter III
-Song Info - 6
-artist(s): The Chordettes
-song name: Lollipop
-preview song: https://p.scdn.co/mp3-preview/e8bab9c6881c5639acfd62a49dcc79f845333fd2?cid=3cc91f9535f14916b7d83119a756ea19
-album: Stand By Me [Original Motion Picture Soundtrack]
-Song Info - 7
-artist(s): Aqua
-song name: Lollipop (Candyman)
+album: 00s Alternative
+-----------------------------------------------------Song Info - 7
+artist(s): Def Leppard
+song name: Pour Some Sugar On Me - Remastered 2017
 preview song: null
-album: Aquarium
-Song Info - 8
-artist(s): The Treblemakers
-song name: Lollipop - From "Pitch Perfect 2" Soundtrack
+album: Hysteria (Super Deluxe)
+-----------------------------------------------------Song Info - 8
+artist(s): Red Hot Chili Peppers
+song name: Under The Bridge
+preview song: https://p.scdn.co/mp3-preview/90e41778392f27b6f7dd82db4c90916b3727aa6a?cid=3cc91f9535f14916b7d83119a756ea19
+album: Blood Sugar Sex Magik (Deluxe Version)
+-----------------------------------------------------Song Info - 9
+artist(s): The Archies
+song name: Sugar, Sugar
+preview song: https://p.scdn.co/mp3-preview/2a0162c998b70dd31d0b51ba8c5695969f14dd60?cid=3cc91f9535f14916b7d83119a756ea19
+album: The Very Best Of "The Archies"
+-----------------------------------------------------Song Info - 10
+artist(s): Robin Schulz
+song name: Sugar (feat. Francesco Yates)
+preview song: https://p.scdn.co/mp3-preview/c4b6941542e99f1a0cf480d6b1ed033be783a3fa?cid=3cc91f9535f14916b7d83119a756ea19
+album: SUGAR
+-----------------------------------------------------Song Info - 11
+artist(s): System Of A Down
+song name: Sugar
+preview song: https://p.scdn.co/mp3-preview/07ec7814481c35dd2b8d77474aa4003ecac8dd4d?cid=3cc91f9535f14916b7d83119a756ea19
+album: System Of A Down (Bonus Pack)
+-----------------------------------------------------Song Info - 12
+artist(s): The Rolling Stones
+song name: Brown Sugar - Remastered
 preview song: null
-album: Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)
-Song Info - 9
-artist(s): Alvvays
-song name: Lollipop (Ode To Jim)
-preview song: https://p.scdn.co/mp3-preview/ac23721e60233a11f9079c71b42b76abc532472a?cid=3cc91f9535f14916b7d83119a756ea19
-album: Antisocialites
-Song Info - 10
-artist(s): Jeffree Star
-song name: Lollipop Luxury [feat. Nicki Minaj]
-preview song: https://p.scdn.co/mp3-preview/4caee85c1ac4d1235d6c34a9af6ad0a15ae2f5c7?cid=3cc91f9535f14916b7d83119a756ea19
-album: Beauty Killer
-Song Info - 11
-artist(s): Boza
-song name: Lollipop
-preview song: https://p.scdn.co/mp3-preview/41c260253dac4cafcaef5874898751281fb379a9?cid=3cc91f9535f14916b7d83119a756ea19
-album: Lollipop
-Song Info - 12
-artist(s): Millie Small
-song name: My Boy Lollipop
+album: Sticky Fingers (Remastered)
+-----------------------------------------------------Song Info - 13
+artist(s): Four Tops
+song name: I Can't Help Myself (Sugar Pie, Honey Bunch)
 preview song: null
-album: Ska's The Limit 1959-1964, Vol.1
-Song Info - 13
-artist(s): Lil Wayne
-song name: Lollipop - Album Version (Edited)
+album: The Definitive Collection
+-----------------------------------------------------Song Info - 14
+artist(s): The Archies
+song name: Sugar, Sugar
+preview song: https://p.scdn.co/mp3-preview/c7481acda4c16e23d523b67379c750f11575bbd3?cid=3cc91f9535f14916b7d83119a756ea19
+album: Sugar Sugar
+-----------------------------------------------------Song Info - 15
+artist(s): Sugar Ray
+song name: Fly
+preview song: https://p.scdn.co/mp3-preview/f7fe4ab27538c3c60e92dc91f584ab1388188194?cid=3cc91f9535f14916b7d83119a756ea19
+album: Floored
+-----------------------------------------------------Song Info - 16
+artist(s): Red Hot Chili Peppers
+song name: Give It Away
+preview song: https://p.scdn.co/mp3-preview/fcdf3224d230b26b637418c2d1028bc482db7fce?cid=3cc91f9535f14916b7d83119a756ea19
+album: Blood Sugar Sex Magik (Deluxe Version)
+-----------------------------------------------------Song Info - 17
+artist(s): Four Tops
+song name: I Can't Help Myself (Sugar Pie, Honey Bunch)
 preview song: null
-album: Tha Carter III
-Song Info - 14
-artist(s): Jeffree Star
-song name: Lollipop Luxury
-preview song: https://p.scdn.co/mp3-preview/4caee85c1ac4d1235d6c34a9af6ad0a15ae2f5c7?cid=3cc91f9535f14916b7d83119a756ea19
-album: Beauty Killer (Bonus Track Version)
-Song Info - 15
-artist(s): Lil Wayne
-song name: Lollipop
-preview song: null
-album: Lollipop
-Song Info - 16
-artist(s): Sevenn
-song name: Lollipop
-preview song: https://p.scdn.co/mp3-preview/ede7ca3934f53e7d539efff4b1358313e308fcbf?cid=3cc91f9535f14916b7d83119a756ea19
-album: Lollipop
-Song Info - 17
-artist(s): Lil Wayne
-song name: Lollipop
-preview song: null
-album: Tha Carter III (MTV Bonus Version)
-Song Info - 18
-artist(s): The Playtime Allstars
-song name: Lollipop
-preview song: https://p.scdn.co/mp3-preview/2433bac6abeb76cf755ddc35d3b2252770f8e9d6?cid=3cc91f9535f14916b7d83119a756ea19
-album: 26 Play Day All Greats
-Song Info - 19
-artist(s): The Playtime Allstars
-song name: Lollipop
-preview song: https://p.scdn.co/mp3-preview/2433bac6abeb76cf755ddc35d3b2252770f8e9d6?cid=3cc91f9535f14916b7d83119a756ea19
-album: 17 Cat & Mouse Nursery Rhymes
-Song Info - 20
-artist(s): The Playtime Allstars
-song name: Lollipop
-preview song: https://p.scdn.co/mp3-preview/01e3bbf25381821b0639b12c2c25687c4965ca19?cid=3cc91f9535f14916b7d83119a756ea19
-album: 29 Kids Fun Time
-Song Info - 1
-artist(s): Lizzo
-song name: Truth Hurts
-preview song: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=3cc91f9535f14916b7d83119a756ea19
-album: Cuz I Love You (Deluxe)
-Song Info - 2
-artist(s): Juice WRLD
-song name: Robbery
-preview song: null
-album: Death Race For Love
-Song Info - 3
-artist(s): Billie Eilish
-song name: i love you
-preview song: null
-album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
-Song Info - 4
-artist(s): BLACKPINK
-song name: Kill This Love
-preview song: null
-album: KILL THIS LOVE
-Song Info - 5
-artist(s): XXXTENTACION
-song name: Fuck Love (feat. Trippie Redd)
-preview song: https://p.scdn.co/mp3-preview/a6bbae399c7e05f8b3987c3e293e544690e796ce?cid=3cc91f9535f14916b7d83119a756ea19
-album: 17
-Song Info - 6
-artist(s): MAX
-song name: Love Me Less (feat. Quinn XCII)
-preview song: https://p.scdn.co/mp3-preview/62452b94cb148f412fc34bd965a5a13ea42970f7?cid=3cc91f9535f14916b7d83119a756ea19
-album: Love Me Less (feat. Quinn XCII)
-Song Info - 7
-artist(s): Khalid
-song name: Love Lies (with Normani)
-preview song: https://p.scdn.co/mp3-preview/d53d5678b946219bd6df0b3d04ce0b3554f167d4?cid=3cc91f9535f14916b7d83119a756ea19
-album: Love Lies (with Normani)
-Song Info - 8
-artist(s): Alessia Cara
-song name: Out Of Love
-preview song: null
-album: The Pains Of Growing
-Song Info - 9
-artist(s): Kendrick Lamar
-song name: LOVE. FEAT. ZACARI.
-preview song: null
-album: DAMN.
-Song Info - 10
-artist(s): Tyler, The Creator
-song name: I DON'T LOVE YOU ANYMORE
-preview song: https://p.scdn.co/mp3-preview/a7ffd5b770b27797305a5bc68d4fe857354807f1?cid=3cc91f9535f14916b7d83119a756ea19
-album: IGOR
-Song Info - 11
-artist(s): Lizzo
-song name: Juice
-preview song: https://p.scdn.co/mp3-preview/36d1de1d9da66da5d7d20b7a796581f2e1b46eb4?cid=3cc91f9535f14916b7d83119a756ea19
-album: Cuz I Love You
-Song Info - 12
-artist(s): Avicii
-song name: Tough Love
-preview song: null
-album: Tough Love
-Song Info - 13
-artist(s): Juice WRLD
-song name: Feeling
-preview song: null
-album: Death Race For Love
-Song Info - 14
-artist(s): Halsey
-song name: Bad At Love
-preview song: null
-album: hopeless fountain kingdom (Deluxe)
-Song Info - 15
-artist(s): YNW Melly
-song name: 772 Love
-preview song: https://p.scdn.co/mp3-preview/7612dc3cd3a1ce3e0392b4654563f591ba0a4edd?cid=3cc91f9535f14916b7d83119a756ea19
-album: 772 Love
-Song Info - 16
-artist(s): Brett Eldredge
-song name: Love Someone
-preview song: https://p.scdn.co/mp3-preview/dabff7da6aa1afb6561972f43a81928fef0d48c9?cid=3cc91f9535f14916b7d83119a756ea19
-album: Brett Eldredge
-Song Info - 17
-artist(s): The Chainsmokers
-song name: Who Do You Love (with 5 Seconds of Summer)
-preview song: https://p.scdn.co/mp3-preview/e3ef260cdfe18ac3e66226ce235843469ea69b87?cid=3cc91f9535f14916b7d83119a756ea19
-album: World War Joy...Do You Mean
-Song Info - 18
-artist(s): Eli Young Band
-song name: Love Ain't
-preview song: null
-album: Love Ain't
-Song Info - 19
-artist(s): Juice WRLD
-song name: Hear Me Calling
-preview song: null
-album: Death Race For Love
-Song Info - 20
-artist(s): Juice WRLD
-song name: Fast
-preview song: null
-album: Death Race For Love
-Concert Info - 1
-Name of the Venue: Addison Improv Comedy Club
-Venue Location: Addison, United States
-Date of the Event: 06/15/2019 02:00PM
-Concert Info - 2
-Name of the Venue: Addison Improv Comedy Club
-Venue Location: Addison, United States
-Date of the Event: 06/29/2019 02:00PM
-Concert Info - 1
-Name of the Venue: Somerset House
-Venue Location: London, United Kingdom
-Date of the Event: 06/07/2019 07:00PM
-Concert Info - 2
-Name of the Venue: Ridgefield Playhouse
-Venue Location: Ridgefield, United States
-Date of the Event: 06/08/2019 08:00PM
-Concert Info - 3
-Name of the Venue: Tresor
-Venue Location: Berlin, Germany
-Date of the Event: 06/09/2019 06:30PM
-Concert Info - 4
-Name of the Venue: Rooftop @ Georgia Theatre
-Venue Location: Athens, United States
-Date of the Event: 06/12/2019 08:00PM
-Concert Info - 5
-Name of the Venue: The Norwegian Joy - Bell Street At Pier 66
-Venue Location: Seattle, United States
-Date of the Event: 07/13/2019 07:00PM
-Concert Info - 6
-Name of the Venue: Rooftop @ Georgia Theatre
-Venue Location: Athens, United States
-Date of the Event: 07/17/2019 08:00PM
-Concert Info - 7
-Name of the Venue: Rooftop @ Georgia Theatre
-Venue Location: Athens, United States
-Date of the Event: 07/24/2019 08:00PM
-Concert Info - 8
-Name of the Venue: Fabric
-Venue Location: London, United Kingdom
-Date of the Event: 07/27/2019 11:00PM
-Concert Info - 9
-Name of the Venue: Rooftop @ Georgia Theatre
-Venue Location: Athens, United States
-Date of the Event: 07/31/2019 08:00PM
-Concert Info - 10
-Name of the Venue: K.B. Hallen
-Venue Location: Frederiksberg, Denmark
-Date of the Event: 09/04/2019 08:00PM
-Concert Info - 11
-Name of the Venue: K.B. Hallen
-Venue Location: Frederiksberg, Denmark
-Date of the Event: 09/06/2019 08:00PM
-Concert Info - 12
-Name of the Venue: K.B. Hallen
-Venue Location: Frederiksberg, Denmark
-Date of the Event: 09/07/2019 08:00PM
-Concert Info - 13
-Name of the Venue: Grand Hotel
-Venue Location: Mackinac Island, United States
-Date of the Event: 10/06/2019 07:00PM
-Concert Info - 14
-Name of the Venue: Rams Head On Stage
-Venue Location: Annapolis, United States
-Date of the Event: 10/26/2019 08:00PM
-Concert Info - 15
-Name of the Venue: The Maryland Theatre
-Venue Location: Hagerstown, United States
-Date of the Event: 10/27/2019 03:00PM
-Concert Info - 16
-Name of the Venue: The Norwegian Breakaway
-Venue Location: Port Royal, United States
-Date of the Event: 01/04/2020 07:00PM
-Concert Info - 17
-Name of the Venue: Grand Hotel
-Venue Location: Mackinac Island, United States
-Date of the Event: 05/16/2020 07:00PM
-Concert Info - 18
-Name of the Venue: Grand Hotel
-Venue Location: Mackinac Island, United States
-Date of the Event: 10/03/2020 07:00PM
+album: Best Of/20th Century
+-----------------------------------------------------Song Info - 18
+artist(s): Sugar Ray
+song name: Every Morning
+preview song: https://p.scdn.co/mp3-preview/a6a38c3b3361c56319ff3ba9dcf6a557dda046d8?cid=3cc91f9535f14916b7d83119a756ea19
+album: 14:59
+-----------------------------------------------------Song Info - 19
+artist(s): The Archies
+song name: Sugar, Sugar
+preview song: https://p.scdn.co/mp3-preview/fd715f884bfba5bdea13b9fcd4b425965de9883d?cid=3cc91f9535f14916b7d83119a756ea19
+album: Sugar, Sugar
+-----------------------------------------------------Song Info - 20
+artist(s): Bring Me The Horizon
+song name: sugar honey ice & tea
+preview song: https://p.scdn.co/mp3-preview/404ea2c6104029ab4c175f6284b06dab1622dd92?cid=3cc91f9535f14916b7d83119a756ea19
+album: amo
+-----------------------------------------------------
