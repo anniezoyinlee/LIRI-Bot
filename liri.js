@@ -41,7 +41,8 @@ function bandsInTown(parameter) {
         if (!error && response.statusCode === 200) {
             const concert = JSON.parse(body);
             for (i = 0; i < concert.length; i++) {
-                fs.appendFileSync("log.txt", "Concert Info - " + [i+1] + "\n");
+                console.log("\nConcert Info - " + [i + 1]);
+                fs.appendFileSync("log.txt", "Concert Info - " + [i + 1] + "\n");
 
                 // Name of the venue
                 console.log("Name of the Venue: " + concert[i].venue.name);
@@ -54,40 +55,52 @@ function bandsInTown(parameter) {
                 // Date of the Event (use moment to format this as "MM/DD/YYYY")
                 var dateArr = moment(concert[i].datetime).format('MM/DD/YYYY, hh:mmA').split(",");
                 var concertDate = dateArr[0] + dateArr[1];
-                console.log("Date of the Event: " + concertDate + "\n")
+                console.log("Date of the Event: " + concertDate)
                 fs.appendFileSync("log.txt", "Date of the Event: " + concertDate + "\n");
             }
         }
     });
 }
 
-// // spotify-this-song  
-// // node liri.js spotify-this-song '<song name here>'
-// function spotifySong(parameter) {
-//     var searchTrack;
-//     if (parameter === undefined) {
-//         searchTrack = "The Sign ace of base";
-//     } else {
-//         searchTrack = parameter;
-//     }
+// Function: spotify-this-song
+// node liri.js spotify-this-song '<song name here>'
+function spotifySong(parameter) {
+    // default song
+    if (parameter === undefined || null) {
+        parameter = "The Sign";
+    }
 
-//     spotify.search({
-//         type: 'track',
-//         query: searchTrack
-//     }, function (error, data) {
-//         if (error) {
-//             logIt('Error occurred: ' + error);
-//             return;
-//         } else {
-//             logIt("\n---------------------------------------------------\n");
-//             logIt("Artist: " + data.tracks.items[0].artists[0].name);
-//             logIt("Song: " + data.tracks.items[0].name);
-//             logIt("Preview: " + data.tracks.items[3].preview_url);
-//             logIt("Album: " + data.tracks.items[0].album.name);
-//             logIt("\n---------------------------------------------------\n");
-//         }
-//     });
-// };
+    spotify.search({
+        type: 'track',
+        query: parameter
+    }, function (error, data) {
+        if (error) {
+            console.log('Error occurred: ' + error);
+            return;
+        }
+        var song = data.tracks.items;
+        for (var i = 0; i < song.length; i++) {
+            console.log("\nSong Info - " + [i + 1]);
+            fs.appendFileSync("log.txt", "Song Info - " + [i + 1] + "\n");
+
+            // Artist(s)
+            console.log("Artist(s): " + song[i].artists[0].name);
+            fs.appendFileSync("log.txt", "artist(s): " + song[i].artists[0].name + "\n");
+
+            // The song's name
+            console.log("Song name: " + song[i].name);
+            fs.appendFileSync("log.txt", "song name: " + song[i].name + "\n");
+
+            // A preview link of the song from Spotify
+            console.log("Preview song: " + song[i].preview_url);
+            fs.appendFileSync("log.txt", "preview song: " + song[i].preview_url + "\n");
+
+            // The album that the song is from
+            console.log("Album: " + song[i].album.name);
+            fs.appendFileSync("log.txt", "album: " + song[i].album.name + "\n");
+        }
+    });
+};
 
 // // movie-this
 // // node liri.js movie-this '<movie name here>'
